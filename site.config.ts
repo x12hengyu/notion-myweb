@@ -58,12 +58,16 @@ export default siteConfig({
       pageId: 'd332be38836d4ac690ed5fb1bdd616a3'
     },
     {
+      title: 'Resume',
+      url: 'https://twitter.com/'
+    },
+    {
+      title: 'Publications',
+      url: '#8034dd00894344e8a6d2ffec610d8b28'
+    },
+    {
       title: 'Contact',
       pageId: '644f5d6450bc4b7a8eb151484f0863d0'
     },
-    {
-      title: 'Resume',
-      url: 'https://twitter.com/'
-    }
   ]
 })
