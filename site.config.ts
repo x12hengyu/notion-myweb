@@ -63,7 +63,7 @@ export default siteConfig({
     },
     {
       title: 'Publications',
-      url: '#8034dd00894344e8a6d2ffec610d8b28'
+      pageId: '#8034dd00894344e8a6d2ffec610d8b28'
     },
     {
       title: 'Contact',
