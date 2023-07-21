@@ -13,6 +13,7 @@ export default siteConfig({
   domain: 'hughyu.com',
   author: 'Hugh Yu',
 
+  
   // open graph metadata (optional)
   description: `Hugh's Personal website`,
 
