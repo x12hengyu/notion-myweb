@@ -13,7 +13,7 @@ export default siteConfig({
   domain: 'hughyu.com',
   author: 'Hugh Yu',
 
-  
+
   // open graph metadata (optional)
   description: `Hugh's Personal website`,
 
@@ -60,7 +60,7 @@ export default siteConfig({
     },
     {
       title: 'Resume',
-      url: 'https://twitter.com/'
+      url: 'https://drive.google.com/drive/folders/1Vj9DaDnue-5pnCcSm74UvfH19YQDcF4L?usp=sharing'
     },
     {
       title: 'Contact',
